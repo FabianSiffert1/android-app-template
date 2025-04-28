@@ -3,8 +3,8 @@
 based on best practices suggested by [nowInAndroid
 ](https://github.com/android/nowinandroid)
 
-- investment type agnostic
 - navigation: navigation compose
-- di: koin (soon)
+- multi modular
+- convention plugin
 
   
